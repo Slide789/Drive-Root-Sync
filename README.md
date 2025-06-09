@@ -4,10 +4,10 @@ A simple Python script to sync any local folder with the root of your Google Dri
 
 ## Features
 
-- Uploads files directly to your Drive root (no folder creation)
+- Uploads files directly to your Drive root
 - Skips files that are already up-to-date
 - Updates files if their content has changed
-- Works with all common file types (PDF, DOCX, PNG, ZIP, etc.)
+- Works with all common file types
 
 ---
 
