@@ -14,7 +14,7 @@ A simple Python script to sync any local folder with the root of your Google Dri
 ## Requirements
 
 - Python 3.x
-- `pydrive2` (installed via `requirements.txt`)
+- `pydrive2`
 - Google API credentials (`client_secrets.json`)
 
 ---
